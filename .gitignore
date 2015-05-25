@@ -1,0 +1,17 @@
+**/*.*~
+.DS_Store
+target
+nb-configuration.xml
+nbactions.xml
+nb_jr_remoting.cfg
+Proyectos.log**
+Proyectos-test.log**
+.idea
+*.iml
+.classpath
+.project
+.settings
+.sass-cache
+src/main/resources/dii.properties
+Thumbs.db
+rebel.xml
